@@ -34,12 +34,12 @@ Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive expe
 
 ## Education
 - **Bachelor of Science in Computer Science**
-  - University Name
-  - Year of Graduation
+  - Faculty of Engineering, Al-Azhar University.
+  - 2024
 
 ## Contact
 - **Email**: omargamel258@gmail.com
-- **LinkedIn**: [Omar Gamil LinkedIn]([https://www.linkedin.com/in/omar-gamel-8628531b3/])
+- **LinkedIn**: [Omar Gamil LinkedIn](https://www.linkedin.com/in/omar-gamel-8628531b3/)
 - **GitHub**: [Omar Gamil GitHub](https://github.com/OmarGamill)
 
 
