@@ -19,7 +19,7 @@ Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive expe
 ## Projects
 
 ### 1. Lane Detection Assist System
-- **Description**:
+**Description**:
 - Developed and implemented computer vision algorithms for real-time lane detection using OpenCV and deep learning models. 
 - Integrated hardware components including Raspberry Pi, camera modules, and ultrasonic sensors for comprehensive system functionality.
 - Applied edge detection and Hough Transform techniques to identify and highlight lane markings accurately.
@@ -30,7 +30,7 @@ Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive expe
 - **Repository**: [Lane Detection Assist System](https://github.com/OmarGamill/Lane-Detection-Assist-System)
 
 ### 2. Credit Card Fraud Detection System
-- **Description**:
+ **Description**:
 - Built a machine learning pipeline to predict fraudulent transactions using Logistic Regression, K-Nearest Neighbors, Support Vector Classifier, and Decision Tree Classifier. 
 - Conducted comprehensive EDA, data preprocessing, model training, and evaluation, achieving optimized performance on imbalanced datasets.
 
@@ -38,7 +38,7 @@ Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive expe
 - **Repository**: [Credit Card Fraud Detection System](https://github.com/OmarGamill/Credit-Card-Fraud-Detection)
 
 ### 3. Machine Learning Projects Repository
-- **Description**:
+ **Description**:
 - Developed three distinct machine learning projects: Auto MPG Prediction, MNIST Digit Classification, and Cats & Dogs Image Classification
 - Applied various techniques including regression, deep neural networks, and convolutional neural networks (CNNs) to achieve accurate results in each domain.
 
@@ -48,7 +48,7 @@ Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive expe
 ## Education
 - **Bachelor of Science in Computer Science**
   - Faculty of Engineering, Al-Azhar University.
-  - 2024
+
 
 ## Contact
 - **Email**: omargamel258@gmail.com
