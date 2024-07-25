@@ -17,21 +17,34 @@ Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive expe
 
 
 ## Projects
-### 1. Object Detection and Recognition
-- **Description**: Developed an object detection and recognition system using YOLOv3.
-- **Technologies Used**: Python, OpenCV, TensorFlow
-- **Repository**: [Object Detection](https://github.com/your-username/object-detection)
 
-### 2. Face Recognition System
-- **Description**: Created a face recognition system using deep learning techniques.
-- **Technologies Used**: Python, Dlib, Keras
-- **Repository**: [Face Recognition](https://github.com/your-username/face-recognition)
+### 1. Lane Detection Assist System
+- **Description**:
+- Developed and implemented computer vision algorithms for real-time lane detection using OpenCV and deep learning models. 
+- Integrated hardware components including Raspberry Pi, camera modules, and ultrasonic sensors for comprehensive system functionality.
+- Applied edge detection and Hough Transform techniques to identify and highlight lane markings accurately.
+- Enhanced the system's performance using the Ultrafast Lane Detector for robust lane detection under various driving conditions.
+- Collaborated with a multidisciplinary team to design and implement a user interface that provides real-time lane status and alerts to the driver.
 
-### 3. Image Segmentation
-- **Description**: Implemented an image segmentation model using U-Net architecture.
-- **Technologies Used**: Python, TensorFlow, Keras
-- **Repository**: [Image Segmentation](https://github.com/your-username/image-segmentation)
+- **Technologies Used**: Python, PyTorch, OpenCv
+- **Repository**: [Lane Detection Assist System](https://github.com/OmarGamill/Lane-Detection-Assist-System)
 
+### 2. Credit Card Fraud Detection System
+- **Description**:
+- Built a machine learning pipeline to predict fraudulent transactions using Logistic Regression, K-Nearest Neighbors, Support Vector Classifier, and Decision Tree Classifier. 
+- Conducted comprehensive EDA, data preprocessing, model training, and evaluation, achieving optimized performance on imbalanced datasets.
+
+- **Technologies Used**: Python,SikitLearn
+- **Repository**: [Credit Card Fraud Detection System](https://github.com/OmarGamill/Credit-Card-Fraud-Detection)
+
+### 3. Machine Learning Projects Repository
+- **Description**:
+- Developed three distinct machine learning projects: Auto MPG Prediction, MNIST Digit Classification, and Cats & Dogs Image Classification
+- Applied various techniques including regression, deep neural networks, and convolutional neural networks (CNNs) to achieve accurate results in each domain.
+
+- **Technologies Used**: Python,SikitLearn
+- **Repository**: [Machine Learning Projects Repository](https://github.com/OmarGamill/DeepLearningProjects)
+  
 ## Education
 - **Bachelor of Science in Computer Science**
   - Faculty of Engineering, Al-Azhar University.
@@ -39,7 +52,7 @@ Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive expe
 
 ## Contact
 - **Email**: omargamel258@gmail.com
-- **LinkedIn**: [Omar Gamil LinkedIn](https://www.linkedin.com/in/omar-gamel-8628531b3/)
+- **LinkedIn**: [Omar Gamil LinkedIn](https://www.linkedin.com/in/omar-gamel)
 - **GitHub**: [Omar Gamil GitHub](https://github.com/OmarGamill)
 
 
