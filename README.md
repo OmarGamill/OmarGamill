@@ -1,4 +1,4 @@
-# Omar Gamil - Computer Vision Engineer
+# Omar Gamil
 
 ## About Me
 Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive experience in Machine Learning, Deep Learning, and Computer Vision. I love solving complex problems and creating innovative solutions in the field of artificial intelligence.
@@ -32,6 +32,7 @@ Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive expe
 ### 2. Credit Card Fraud Detection System
  **Description**:
 - Built a machine learning pipeline to predict fraudulent transactions using Logistic Regression, K-Nearest Neighbors, Support Vector Classifier, and Decision Tree Classifier. 
+
 - Conducted comprehensive EDA, data preprocessing, model training, and evaluation, achieving optimized performance on imbalanced datasets.
 
 - **Technologies Used**: Python,SikitLearn
