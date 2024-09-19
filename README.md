@@ -1,7 +1,7 @@
 # Omar Gamil
 
 ## About Me
-Hello! I'm Omar Gamil, a passionate Computer Vision Engineer with extensive experience in Machine Learning, Deep Learning, and Computer Vision. I love solving complex problems and creating innovative solutions in the field of artificial intelligence.
+I am a highly skilled data analyst and scientist with a strong background in Systems and Computers Engineering. With expertise in tools like Power BI, SQL, Excel, and Python, I specialize in transforming raw data into actionable insights to drive business performance. My track record includes developing insightful dashboards and delivering data-driven solutions that enhance operational efficiency and business outcomes. I have successfully provided valuable insights that have shaped the strategic direction of businesses by diving deep into data and extracting meaningful patterns.
 
 ## Skills
 - **Programming Languages**: Python
