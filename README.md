@@ -6,18 +6,7 @@ I am a highly skilled data analyst and scientist with a strong background in Sys
 
 ## Projects
 
-### 1. Lane Detection Assist System
-**Description**:
-- Developed and implemented computer vision algorithms for real-time lane detection using OpenCV and deep learning models. 
-- Integrated hardware components including Raspberry Pi, camera modules, and ultrasonic sensors for comprehensive system functionality.
-- Applied edge detection and Hough Transform techniques to identify and highlight lane markings accurately.
-- Enhanced the system's performance using the Ultrafast Lane Detector for robust lane detection under various driving conditions.
-- Collaborated with a multidisciplinary team to design and implement a user interface that provides real-time lane status and alerts to the driver.
-
-- **Technologies Used**: Python, PyTorch, OpenCv
-- **Repository**: [Lane Detection Assist System](https://github.com/OmarGamill/Lane-Detection-Assist-System)
-
-### 2. Credit Card Fraud Detection System
+### 1. Credit Card Fraud Detection System
  **Description**:
 - Built a machine learning pipeline to predict fraudulent transactions using Logistic Regression, K-Nearest Neighbors, Support Vector Classifier, and Decision Tree Classifier. 
 
@@ -26,14 +15,7 @@ I am a highly skilled data analyst and scientist with a strong background in Sys
 - **Technologies Used**: Python,SikitLearn
 - **Repository**: [Credit Card Fraud Detection System](https://github.com/OmarGamill/Credit-Card-Fraud-Detection)
 
-### 3. Machine Learning Projects Repository
- **Description**:
-- Developed three distinct machine learning projects: Auto MPG Prediction, MNIST Digit Classification, and Cats & Dogs Image Classification
-- Applied various techniques including regression, deep neural networks, and convolutional neural networks (CNNs) to achieve accurate results in each domain.
 
-- **Technologies Used**: Python,SikitLearn
-- **Repository**: [Machine Learning Projects Repository](https://github.com/OmarGamill/DeepLearningProjects)
-  
 ## Education
 - **Bachelor of Science in Computer Science**
   - Faculty of Engineering, Al-Azhar University.
