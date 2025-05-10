@@ -1,7 +1,7 @@
 # Omar Gamil
 
 ## About Me
-Hi, I’m Omar Gamil, a Data Analyst passionate about transforming raw data into actionable insights. I have a strong foundation in Excel, Power BI, SQL, and Python, and I specialize in data cleaning, visualization, and trend analysis to support informed decision-making. I am currently pursuing a Bachelor of Engineering in Systems and Computer Engineering at Al-Azhar University in Egypt, with an expected graduation date of June 2024. Through hands-on projects and internships, I have honed my skills in delivering impactful dashboards and reports that optimize business performance.
+Hi, I’m Omar Gamil
 
 
 ## Projects
